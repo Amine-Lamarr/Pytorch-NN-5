@@ -1,0 +1,2 @@
+this is a Neural Network model predicting who will survive from titanic depending on the dataset
+i used pytorch labrary to build a fully connected neural network 
